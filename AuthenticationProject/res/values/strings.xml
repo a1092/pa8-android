@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AuthenticationProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="textView_connexion_userName_string">Login : </string>
+    <string name="textView_connexion_password_string">Mot de passe : </string>
+    <string name="btn_connexion_connect_string">Connexion</string>
+</resources>
