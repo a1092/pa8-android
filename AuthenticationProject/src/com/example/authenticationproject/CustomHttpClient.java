@@ -17,6 +17,10 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import android.util.Log;
 
 public class CustomHttpClient {
+	
+	
+	private static String BASE_URL = "http://192.168.0.101/pa8/web/app_dev.php/android/";
+	
 	public boolean connect(String userName, String password)
 			throws Exception {
 
