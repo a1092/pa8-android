@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kylin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="title_activity_create_contact">Créer un nouveau contact</string>
+    <string name="title_activity_shoppinglist">ShoppingList</string>
+    <string name="title_activity_chooseShoppinglist">ShoppingList</string>
+    <string name="title_activity_createShoppinglist">ShoppingList</string>
+    <string name="title_activity_show_contact">Contact</string>
+    <string name="title_activity_modify_contact">Modifier le contact</string>
+    <string name="title_activity_loans">Emprunts</string>
+    <string name="title_activity_todotasks">TODO</string>
+    <string name="textView_authentication_userName_string">Login : </string>
+    <string name="textView_authentication_password_string">Mot de passe : </string>
+    <string name="btn_activity_authentication_connect_string">Connexion</string>
+    <string name="textView_create_contact_name_string">Nom : </string>
+    <string name="textView_create_contact_email_string">Adresse email : </string>
+    <string name="textView_create_contact_address_string">Adresse postale : </string>
+    <string name="textView_create_contact_homePhoneNumber_string">Maison : </string>
+    <string name="textView_create_contact_mobilePhoneNumber_string">Portable : </string>
+    <string name="textView_create_contact_otherPhoneNumber_string">Autre : </string>
+    <string name="textView_create_contact_category_string">Catégorie : </string>
+    <string name="textView_create_contact_remark_string">Commentaire : </string>
+    <string name="textView_layout_contact_category_string">Catégorie : </string>
+    <string name="textView_show_contact_name_string">Nom : </string>
+    <string name="textView_show_contact_email_string">Adresse email : </string>
+    <string name="textView_show_contact_address_string">Adresse postale : </string>
+    <string name="textView_show_contact_homePhoneNumber_string">Maison : </string>
+    <string name="textView_show_contact_mobilePhoneNumber_string">Portable : </string>
+    <string name="textView_show_contact_otherPhoneNumber_string">Autre : </string>
+    <string name="textView_show_contact_category_string">Catégorie : </string>
+    <string name="textView_show_contact_remark_string">Commentaire : </string>
+    <string name="btn_show_contact_modifycontact_string">Modifier le contact</string>
+    <string name="textView_modify_contact_name_value_string">Nom : </string>
+    <string name="textView_modify_contact_email_string">Adresse email : </string>
+    <string name="textView_modify_contact_address_string">Adresse postale : </string>
+    <string name="textView_modify_contact_homePhoneNumber_string">Maison : </string>
+    <string name="textView_modify_contact_mobilePhoneNumber_string">Portable : </string>
+    <string name="textView_modify_contact_otherPhoneNumber_string">Autre : </string>
+    <string name="textView_modify_contact_category_string">Catégorie : </string>
+    <string name="textView_modify_contact_remark_string">Commentaire : </string>
+    <string name="btn_modify_contact_submit_string">Enregistrer les modifications</string>
+    <string name="btn_modify_contact_cancel_string">Annuler</string>
+    <string name="btn_create_contact_submit_string">Ajouter</string>
+    <string name="btn_create_contact_cancel_string">Annuler</string>
+    <string name="btn_contacts_create_contact_string">Nouveau contact</string>
+    <string name="btn_chooseashoppinglist_add_shoppinglist_string">Nouvelle liste de courses</string>
+    <string name="btn_shoppinglist_add_shoppingitem_string">Nouvel article</string>
+    <string name="btn_shoppinglist_backtoshoppinglistlists_string">Retour à la liste de liste des courses</string>
+    <string name="textView_prompt_shoppingitem_name_string">Nom : </string>
+    <string name="textView_prompt_shoppingitem_quantity_string">Quantité : </string>
+    <string name="textView_prompt_shoppinglist_name_string">Nom : </string>
+    <string name="textView_prompt_shoppinglist_deadline_string">Fin : </string>
+    <string name="btn_dashboard_open_contacts_string">Carnet d\'adresses</string>
+    <string name="btn_dashboard_open_shoppingList_string">Liste des courses</string>
+    <string name="btn_dashboard_open_TODOList_string">Liste des tâches</string>
+    <string name="btn_dashboard_open_Calendar_string">Calendrier</string>
+    <string name="btn_dashboard_open_messages_string">Messages</string>
+    <string name="btn_dashboard_open_survey_string">Sondages</string>
+    <string name="btn_dashboard_open_loans_string">Liste des prêts</string>
+    <string name="textView_createashoppinglist_name_string">Nom de la liste :</string>
+    <string name="textView_createashoppinglist_deadline_string">Date de fin :</string>
+    <string name="btn_createashoppinglist_submit_string">Créer</string>
+    <string name="btn_createashoppinglist_cancel_string">Annuler</string>
+    <string name="textView_prompt_modifyshoppingitem_name_string">Nom: </string>
+    <string name="textView_prompt_modifyshoppingitem_quantity_string">Quantité: </string>
+    <string name="btn_loans_create_loan_string">Ajouter un emprunt</string>
+    <string name="textView_create_loan_lender_string">Propriétaire : </string>
+    <string name="textView_create_loan_borrower_string">Emprunteur : </string>
+    <string name="textView_create_loan_object_string">Objet : </string>
+    <string name="btn_todotask_create_todotask_string">Créer une nouvelle tâche</string>
+    
+    <string name="textView_create_todotask_users_string">Personnes concernées: </string>
+    <string name="textView_create_todotask_name_string">Nom de la tâche: </string>
+    <string name="textView_create_todotask_description_string">Description de la tâche: </string>
+    
+    <string name="textView_layout_loan_lender_string">Propriétaire : </string>
+    <string name="textView_layout_loan_object_string">   Objet emprunté : </string>
+    <string name="textView_layout_loan_borrower_string">   Emprunteur : </string>
+    
+    <string name="textView_prompt_todotask_name_string">   Nom de la tâche : </string>
+    <string name="textView_prompt_todotask_users_string">   Utilisateurs concernés : </string>
+    <string name="textView_prompt_todotask_deadline_string">   Deadline : </string>
+    
+    <string-array name="spinner_create_loan_lender_values">
+        <item>A</item>
+    </string-array>
+    <string-array name="spinner_create_loan_borrower_values">
+        <item>A</item>
+    </string-array>
+    <string-array name="spinner_create_todotask_users_values">
+        <item>A</item>
+    </string-array>
+
+</resources>
